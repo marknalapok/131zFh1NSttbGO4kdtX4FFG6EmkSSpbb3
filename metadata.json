@@ -1,0 +1,5 @@
+{
+  "name": "Synthetix Structure Forge",
+  "description": "A cyberpunk-styled 3D lattice visualizer and structural analysis interface using React, Canvas, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
